@@ -1,6 +1,31 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7028835&assignment_repo_type=AssignmentRepo)
-# 3. Week - React Native App
 
-- Login ve Menu kısımlarının bulanacağı React Native App oluşturulacak
-- JSONPlaceholder API ve axios kullanarak postlar listelenecek
-- Son tarih: 20.02.2022 14:00
+
+
+# Logo Cyber Security Full Stack Bootcamp Homework-3
+
+I apologize to everyone, especially our instructor, for not being able to complete my task this week.
+
+
+##  Download Project
+
+To download the project into a file or directly to the desktop. (Don't forget that Git version is installed.)
+```bash 
+git clone  https://github.com/171-Logo-Siber-FullStack-Bootcamp/week3-assignment-berkanyldrim.git
+```
+    
+## Authors and Acknowledgments
+
+- [@berkanyldrim](https://www.github.com/berkanyldrim) for design and development.
+
+  
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
+## Ekran Görüntüleri
+Login Page
+
+https://www.hizliresim.com/a86ljht
+
+  
